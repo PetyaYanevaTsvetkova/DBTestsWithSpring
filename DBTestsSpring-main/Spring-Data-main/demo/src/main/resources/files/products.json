@@ -1,0 +1,138 @@
+[
+  {
+    "name": "bread",
+    "quantity": 5,
+    "type": "food",
+    "price": 1.3,
+    "isProductInStock": true,
+    "warehouse": "Sofia"
+  },
+  {
+    "name": "chocolate",
+    "quantity": 15,
+    "type": "food",
+    "price": 5.3,
+    "isProductInStock": true,
+    "warehouse": "Sofia"
+  },
+  {
+    "name": "milk",
+    "quantity": 115,
+    "type": "food",
+    "price": 2.3,
+    "isProductInStock": true,
+    "warehouse": "Karlovo"
+  },
+  {
+    "name": "fish",
+    "quantity": 1125,
+    "type": "food",
+    "price": 24.6,
+    "isProductInStock": true,
+    "warehouse": "Varna"
+  },
+  {
+    "name": "cheese",
+    "quantity": 125,
+    "type": "food",
+    "price": 54.6,
+    "isProductInStock": true,
+    "warehouse": "Velingrad"
+  },
+  {
+    "name": "water",
+    "quantity": 4125,
+    "type": "drink",
+    "price": 4.6,
+    "isProductInStock": true,
+    "warehouse": "Devin"
+  },
+  {
+    "name": "Villa Armira Merlot",
+    "quantity": 25,
+    "type": "alcohol",
+    "price": 56.6,
+    "isProductInStock": true,
+    "warehouse": "Ivailovgrad"
+  },
+  {
+    "name": "Roses Yamantievs",
+    "quantity": 5,
+    "type": "alcohol",
+    "price": 11.6,
+    "isProductInStock": true,
+    "warehouse": "Ivailovgrad"
+  },
+  {
+    "name": "fresh orange",
+    "quantity": 65,
+    "type": "drink",
+    "price": 7.6,
+    "isProductInStock": true,
+    "warehouse": "Sofia"
+  },
+  {
+    "name": "apple",
+    "quantity": 650,
+    "type": "fruit",
+    "price": 2.6,
+    "isProductInStock": true,
+    "warehouse": "Velingrad"
+  },
+  {
+    "name": "strawberries",
+    "quantity": 6650,
+    "type": "fruit",
+    "price": 5.6,
+    "isProductInStock": true,
+    "warehouse": "Ivailovgrad"
+  },
+  {
+    "name": "banana",
+    "quantity": 0,
+    "type": "fruit",
+    "price": 7.6,
+    "isProductInStock": false,
+    "warehouse": "Varna"
+  },
+  {
+    "name": "orangeIce",
+    "quantity": 84,
+    "type": "food",
+    "price": 2.4,
+    "isProductInStock": false,
+    "warehouse": "Sliven"
+  },
+  {
+    "name": "orange",
+    "quantity": 0,
+    "type": "fruit",
+    "price": 1.6,
+    "isProductInStock": false,
+    "warehouse": "Sliven"
+  },
+  {
+    "name": "Vino Reserve Ivaylovgrad",
+    "quantity": 0,
+    "type": "alcohol",
+    "price": 51.6,
+    "isProductInStock": false,
+    "warehouse": "Ivailovgrad"
+  },
+  {
+    "name": "Vino Ivaylovgrad",
+    "quantity": 0,
+    "type": "alcohol",
+    "price": 51.6,
+    "isProductInStock": false,
+    "warehouse": "Ivailovgrad"
+  },
+  {
+    "name": "Slivenska Perla",
+    "quantity": 54,
+    "type": "alcohol",
+    "price": 51.6,
+    "isProductInStock": false,
+    "warehouse": "Sliven"
+  }
+]

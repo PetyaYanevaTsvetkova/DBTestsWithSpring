@@ -1,0 +1,13 @@
+{
+  "firstName": "Peter",
+  "lastName": "Markov",
+  "age": 36,
+  "email": "pp@abv.bg",
+  "phone": "+3500000",
+  "consentStatus": true,
+  "isProfileActive": false,
+  "dateProfileCreated": "04/08/2022",
+  "dateProfileDeactivated": null,
+  "reasonForDeactivation": null,
+  "notes": null
+}

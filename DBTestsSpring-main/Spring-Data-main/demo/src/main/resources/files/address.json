@@ -1,0 +1,86 @@
+[
+  {
+    "postalCode": 358,
+    "address": "200 Westminster Bridge Road, London, SE1 7UT, United Kingdom",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "postalCode": 399,
+    "address": "Brezite 43",
+    "city": "Plovdiv",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 359,
+    "address": "St Katharines Way, London, E1W 1LD, United Kingdom",
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 319,
+    "address": "Bor 1",
+    "city": "Ivailovgrad",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 259,
+    "address": "Cherni Vrah 125",
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 159,
+    "address": "Ivan Vazov 14",
+    "city": "Varna",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 987,
+    "address": "bld Evlogi Georgiev",
+    "city": "Sofia",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 5211,
+    "address": "St Katharines Way, London, E1W 1LD, United Kingdom",
+    "city": "London",
+    "country": "UK"
+  },
+  {
+    "postalCode": 8911,
+    "address": "11 Blackfriars Street, Manchester, M3 5AL, United Kingdom",
+    "city": "Manchester",
+    "country": "UK"
+  },
+  {
+    "postalCode": 1211,
+    "address": "1 Morrison Link, Edinburgh, EH3 8DN, United Kingdom",
+    "city": "Edinburgh",
+    "country": "UK"
+  },
+  {
+    "postalCode": 359,
+    "address": "Mur 47",
+    "city": "Svilengrad",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 359,
+    "address": "Bulair 25",
+    "city": "Haskovo",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 359,
+    "address": "Kumluka 57",
+    "city": "Sliven",
+    "country": "Bulgaria"
+  },
+  {
+    "postalCode": 359,
+    "address": "Hristo Botev 11",
+    "city": "Lovech",
+    "country": "Bulgaria"
+  }
+]

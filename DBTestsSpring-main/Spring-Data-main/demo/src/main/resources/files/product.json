@@ -1,0 +1,8 @@
+{
+  "name": "biscuits",
+  "quantity": 5,
+  "type": "food",
+  "price": 1.3,
+  "isProductInStock": true,
+  "warehouse": "Sofia"
+}
